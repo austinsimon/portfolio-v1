@@ -23,3 +23,14 @@
 		}
 	}
 }
+
+@media (max-width: 850px) {
+	.coming-soon div {
+		.p-first {
+			font-size: 10vw;
+		}
+		.p-second {
+			font-size: 7vw;
+		}
+	}
+}
