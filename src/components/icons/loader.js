@@ -1,5 +1,5 @@
 import * as React from 'react';
-import "../../styles/components/icons/Loader.scss";
+import "./../../styles/components/icons/loader.scss";
 
 const LoaderIcon = () => {
     return (
