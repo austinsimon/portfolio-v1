@@ -1,6 +1,6 @@
 import * as React from 'react';
 import Preloader from './preloader';
-import UnderDev from './sections/UnderDev';
+import UnderDev from './sections/underdev';
 
 const Layout = () => {
     return(
